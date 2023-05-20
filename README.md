@@ -20,7 +20,7 @@ Sejam bem-vindos ao meu perfil. Sou um analista Senior de FP&A trabalhando em um
 
 <div>
 <a href = "mailto:jpbalopes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/joão-pedro-brasil-de-araújo-lopes-691aaa54" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="www.linkedin.com/in/joaopedrobrasillopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
           
           
