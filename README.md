@@ -15,7 +15,7 @@ Welcome to my profile. I'm a FP&A Analyst working on a tech company.
 
 <div>
 <a href = "mailto:jpbalopes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/joaopedrobrasillopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="www.linkedin.com/in/joaopedrobrasillopes" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>   
 </div>
           
           
