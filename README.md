@@ -6,6 +6,7 @@ Welcome to my profile. I'm a FP&A Analyst working on a tech company.
 <br>I use programming tools to give visibility to financial and produntion KPY's.
 
 
+
 ## Tools e Techs
 
 <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /> <img height="60" src="https://w3skillset.com/wp-content/uploads/2021/09/PowerBI-Logo.png" />
